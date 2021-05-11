@@ -1,4 +1,4 @@
-A file system simulator that mimics the EXT2 file system in Linux.
+A file system simulator that mimics similar file system operations in Linux.
 run.sh is the shell script used to run the application.
 
 cd- Changes directory.
