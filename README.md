@@ -1,3 +1,5 @@
+# Linux System Operations
+
 A file system simulator that mimics similar file system operations in Linux.
 run.sh is the shell script used to run the application.
 
